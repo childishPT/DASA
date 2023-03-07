@@ -1,3 +1,3 @@
-import os
+import datetime
 
-print(os.chdir())
+print(datetime.datetime.now())
